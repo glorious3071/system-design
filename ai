@@ -1,9 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T07:43:11.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.1.1" etag="81aGI5tolCfg7UJtrykM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T08:09:40.590Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NpNUzrt8S4V3Sr4CNsK2" version="21.1.1" type="github">
   <diagram name="Page-1" id="W2kHbjQkKEY49xH49gTE">
-    <mxGraphModel>
+    <mxGraphModel dx="933" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-1" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <mxPoint x="850" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-2" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <mxPoint x="240" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <mxPoint x="820" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="470" />
+              <mxPoint x="350" y="440" />
+              <mxPoint x="380" y="420" />
+              <mxPoint x="410" y="420" />
+              <mxPoint x="460" y="480" />
+              <mxPoint x="490" y="400" />
+              <mxPoint x="500" y="380" />
+              <mxPoint x="520" y="380" />
+              <mxPoint x="570" y="430" />
+              <mxPoint x="600" y="440" />
+              <mxPoint x="650" y="410" />
+              <mxPoint x="710" y="360" />
+              <mxPoint x="730" y="340" />
+              <mxPoint x="750" y="320" />
+              <mxPoint x="780" y="280" />
+              <mxPoint x="800" y="240" />
+              <mxPoint x="810" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-4" value="1950" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="210" y="528" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-5" value="1956" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="263" y="532" width="47" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-7" value="1980" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="429" y="528" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-10" value="2010" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="647" y="528" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-11" value="2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="720" y="528" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" edge="1" parent="1" target="bZnGkxjesOAp-TOQPYlI-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="520" as="sourcePoint" />
+            <mxPoint x="290" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-14" value="诞生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="260" y="464" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-15" value="1974" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="370" y="532" width="47" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="390" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="520" as="sourcePoint" />
+            <mxPoint x="460" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-18" value="AI寒冬(I)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="399" y="470" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="520" as="sourcePoint" />
+            <mxPoint x="510" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-20" value="1987" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="480" y="528" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="520" as="sourcePoint" />
+            <mxPoint x="595" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-23" value="1983" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="565" y="528" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-24" value="AI寒冬(II)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="530" y="470" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bZnGkxjesOAp-TOQPYlI-25" value="时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="820" y="532" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
